@@ -258,7 +258,7 @@ const BOOKS = [
     title: "Ensayo Gran Turismo — Mardenborough",
     color: "#1a1a2e",   // midnight blue (racing night)
     accent: "#c0392b",  // racing red
-    pdfUrl: "https://www.dropbox.com/scl/fi/dszjf0ru3lckrzerq3lwe/ensayo_gran_turismo_mardenborough.pdf?rlkey=pr3ctaq0eqsjd8h33x4t9vqak&st=q1red6yv&dl=0?dl=1"
+    pdfUrl: "./Books/ensayo_gran_turismo_mardenborough.pdf"
   }
 ];
 
