@@ -3,7 +3,7 @@
     "id": 1,
     "title": "ensayo_gran_turismo_mardenborough",
     "file": "Books/ensayo_gran_turismo_mardenborough.pdf",
-    "tags": ["Ensayo", "Primera Generación"]
+    "tags": ["Ensayo", "3er Grado"]
   },
   {
     "id": 2,
@@ -25,15 +25,15 @@
   },
   {
     "id": 5,
-    "title": "",
-    "file": "",
-    "tags": ["", "3er Grado"]
+    "title": "El_dominio_de_la_tecnologia",
+    "file": "El_dominio_de_la_tecnologia.pdf",
+    "tags": ["Ensayo", "3er Grado"]
   },
   {
     "id": 6,
-    "title": "",
-    "file": "",
-    "tags": ["", "3er Grado"]
+    "title": "Exceso",
+    "file": "Exceso.pdf",
+    "tags": ["Ensayo", "3er Grado"]
   },
   {
     "id": 7,
