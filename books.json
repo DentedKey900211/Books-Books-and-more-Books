@@ -46,5 +46,11 @@
     "title": "Pejelagarto",
     "file": "Books/Pejelagarto.pdf",
     "tags": ["Infografia", "3er Grado"]
+  },
+  {
+    "id": 9,
+    "title": "Recopilacion_de_cuentos_del_pejelagarto",
+    "file": "Books/Recopilacion_de_cuentos_del_pejelagarto.pdf",
+    "tags": ["Cuento", "3er Grado"]
   }
 ]
