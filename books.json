@@ -8,43 +8,43 @@
   {
     "id": 2,
     "title": "El_pejelagarto_magico",
-    "file": "El_pejelagarto_magico.pdf",
+    "file": "Books/El_pejelagarto_magico.pdf",
     "tags": ["Cuento", "3er Grado"]
   },
   {
     "id": 3,
     "title": "Guardianes_del_pejelagarto_volumen_1",
-    "file": "Guardianes_del_pejelagarto_volumen_1.pdf",
+    "file": "Books/Guardianes_del_pejelagarto_volumen_1.pdf",
     "tags": ["Infografia", "3er Grado"]
   },
   {
     "id": 4,
     "title": "Guardianes_del_pejelagarto_volumen_2",
-    "file": "Guardianes_del_pejelagarto_volumen_2.pdf",
+    "file": "Books/Guardianes_del_pejelagarto_volumen_2.pdf",
     "tags": ["Infografia", "3er Grado"]
   },
   {
     "id": 5,
     "title": "El_dominio_de_la_tecnologia",
-    "file": "El_dominio_de_la_tecnologia.pdf",
+    "file": "Books/El_dominio_de_la_tecnologia.pdf",
     "tags": ["Ensayo", "3er Grado"]
   },
   {
     "id": 6,
     "title": "Exceso",
-    "file": "Exceso.pdf",
+    "file": "Books/Exceso.pdf",
     "tags": ["Ensayo", "3er Grado"]
   },
   {
     "id": 7,
     "title": "Pez_emblematico",
-    "file": "Pez_emblematico.pdf",
+    "file": "Books/Pez_emblematico.pdf",
     "tags": ["Infografia", "3er Grado"]
   },
   {
     "id": 8,
     "title": "Pejelagarto",
-    "file": "Pejelagarto.pdf",
+    "file": "Books/Pejelagarto.pdf",
     "tags": ["Infografia", "3er Grado"]
   }
 ]
