@@ -7,8 +7,32 @@
   },
   {
     "id": 2,
-    "title": "Atlas_de_Peligros_de_Teapa",
-    "file": "Books/Atlas_de_Peligros_de_Teapa.pdf",
-    "tags": ["Atlas", "Segunda Generación"]
+    "title": "",
+    "file": "",
+    "tags": ["", "3er Grado"]
+  },
+  {
+    "id": 3,
+    "title": "",
+    "file": "",
+    "tags": ["", "3er Grado"]
+  },
+  {
+    "id": 4,
+    "title": "",
+    "file": "",
+    "tags": ["", "3er Grado"]
+  },
+  {
+    "id": 5,
+    "title": "",
+    "file": "",
+    "tags": ["", "3er Grado"]
+  },
+  {
+    "id": 6,
+    "title": "",
+    "file": "",
+    "tags": ["", "3er Grado"]
   }
 ]
