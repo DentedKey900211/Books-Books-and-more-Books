@@ -52,5 +52,17 @@
     "title": "Recopilacion_de_cuentos_del_pejelagarto",
     "file": "Books/Recopilacion_de_cuentos_del_pejelagarto.pdf",
     "tags": ["Cuento", "3er Grado"]
+  },
+  {
+    "id": 10,
+    "title": "Guardianes_del_pejelagarto_volumen_3",
+    "file": "Books/Guardianes_del_pejelagarto_volumen_3.pdf",
+    "tags": ["Infografia", "3er Grado"]
+  },
+  {
+    "id": 11,
+    "title": "El-pejelagarto",
+    "file": "Books/El-pejelagarto.pdf",
+    "tags": ["Divulgacion-cientifica", "3er Grado"]
   }
 ]
