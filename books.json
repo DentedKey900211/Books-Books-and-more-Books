@@ -64,5 +64,11 @@
     "title": "El-pejelagarto",
     "file": "Books/El-pejelagarto.pdf",
     "tags": ["Divulgacion-cientifica", "3er Grado"]
+  },
+  {
+    "id": 12,
+    "title": "Fosil-viviente",
+    "file": "Books/Fosil-viviente.pdf",
+    "tags": ["Infografia", "3er Grado"]
   }
 ]
